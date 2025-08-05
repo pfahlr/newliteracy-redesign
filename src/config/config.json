@@ -1,0 +1,52 @@
+{
+  "site": {
+    "title": "New Literacy Media Group",
+    "base_url": "https://newliteracy.online",
+    "base_path": "/",
+    "trailing_slash": false,
+    "favicon": "/images/favicon.png",
+    "logo": "/images/logo.png",
+    "logo_darkmode": "/images/logo-darkmode.png",
+    "logo_width": "250",
+    "logo_height": "50",
+    "logo_text": "New Literacy"
+  },
+
+  "settings": {
+    "search": true,
+    "sticky_header": true,
+    "theme_switcher": true,
+    "default_theme": "system",
+    "pagination": 6,
+    "summary_length": 200,
+    "blog_folder": "blog"
+  },
+
+  "params": {
+    "contact_form_action": "/contact",
+    "copyright": "© 2025 New Literacy Media Group"
+  },
+
+  "navigation_button": {
+    "enable": true,
+    "label": "Request a Free Estimate",
+    "link": "/contact"
+  },
+
+  "google_tag_manager": {
+    "enable": false,
+    "gtm_id": "GTM-XXXXXX"
+  },
+
+  "disqus": {
+    "enable": true,
+    "shortname": "new-literacy",
+    "settings": {}
+  },
+
+  "metadata": {
+    "meta_author": "New Literacy Media Group",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Custom websites, data tools, and SEO strategy — built to grow your business."
+  }
+}
