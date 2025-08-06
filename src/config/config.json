@@ -34,12 +34,12 @@
   },
 
   "google_tag_manager": {
-    "enable": false,
+    "enable": true,
     "gtm_id": "GTM-MXZ63TQC"
   },
 
   "disqus": {
-    "enable": true,
+    "enable": false,
     "shortname": "new-literacy",
     "settings": {}
   },
